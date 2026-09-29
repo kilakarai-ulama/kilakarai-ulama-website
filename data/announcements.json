@@ -1,0 +1,28 @@
+[
+  {
+    "date": "YYYY-MM-DD",
+    "category_ta": "மாதிரி அறிவிப்பு",
+    "category_en": "Sample notice",
+    "category_ar": "إعلان نموذجي",
+    "title_ta": "மாதிரி அறிவிப்பு 1 — வெளியிடுவதற்கு முன் மாற்றவும்",
+    "title_en": "Sample Announcement 1 — Replace before publishing",
+    "title_ar": "إعلان نموذجي ١ — يُستبدل قبل النشر",
+    "body_ta": "இது இணையதள செயல்பாட்டைக் காட்டுவதற்கான மாதிரி உரை மட்டுமே; உண்மையான சபை அறிவிப்பு அல்ல.",
+    "body_en": "This is placeholder text to demonstrate the website. It is not a real Sabha announcement.",
+    "body_ar": "هذا نص تجريبي لعرض طريقة عمل الموقع، وليس إعلانًا حقيقيًا للمجلس.",
+    "attachment": "#"
+  },
+  {
+    "date": "YYYY-MM-DD",
+    "category_ta": "மாதிரி நிகழ்ச்சி",
+    "category_en": "Sample event",
+    "category_ar": "فعالية نموذجية",
+    "title_ta": "மாதிரி நிகழ்ச்சி அறிவிப்பு — உண்மையான விவரங்களைச் சேர்க்கவும்",
+    "title_en": "Sample Event Notice — Add verified details",
+    "title_ar": "إعلان فعالية نموذجي — أضيفوا التفاصيل المعتمدة",
+    "body_ta": "நிகழ்ச்சி நாள், நேரம், இடம் மற்றும் அதிகாரப்பூர்வ அழைப்பிதழை சபை உறுதிப்படுத்திய பின்னரே வெளியிடவும்.",
+    "body_en": "Publish only after the Sabha confirms the date, time, venue and official invitation.",
+    "body_ar": "لا تنشروا الإعلان إلا بعد تأكيد المجلس للتاريخ والوقت والمكان والدعوة الرسمية.",
+    "attachment": "#"
+  }
+]
